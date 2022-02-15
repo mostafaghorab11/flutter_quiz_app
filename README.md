@@ -4,13 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a tiny sample on Quiz App which has some quesions in flutter
 
-A few resources to get you started if this is your first Flutter project:
+![gif](https://user-images.githubusercontent.com/58866707/153985631-2a757a02-7f18-4350-8b65-e2424ea7f191.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://user-images.githubusercontent.com/58866707/153985770-b660e4c1-d6d0-4ad7-80f9-10c731addecc.jpg" width="300" /> <img src="https://user-images.githubusercontent.com/58866707/153985939-9ed84962-8eca-4ced-906a-37f47f72d083.jpg" width="300" /> <img src="https://user-images.githubusercontent.com/58866707/153985943-55c59a4f-3384-4843-a0a0-b458ee398860.jpg" width="300" />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
